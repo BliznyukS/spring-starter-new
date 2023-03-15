@@ -1,0 +1,61 @@
+### Java ###
+*.class
+*.war
+*.ear
+*.jar
+hs_err_pid*
+*.class
+*.lock
+
+
+
+### IDEA ###
+.idea/
+.idea/*
+.idea/
+.idea
+/.idea/
+.out/
+.out
+*/out/
+/out/
+*.iml
+
+workspace.xml
+/.idea/workspace.xml
+.idea/workspace.xml
+.idea/workspace.xml
+/target/
+.iml
+.lst
+/logs/
+*/logs/
+.log
+/generated
+/generated_tests
+
+
+### OSX ###
+*.DS_Store
+._*
+
+### Windows ###
+Thumbs.db
+Desktop.ini
+
+### Linux ###
+*~
+
+### Application ###
+
+### Gradle ###
+.gradle
+.gradle/
+.gradle/*
+.gradle/**
+/.gradle/
+build/
+!gradle-wrapper.jar
+*.log
+*.lock
+/.idea/
